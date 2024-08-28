@@ -1,6 +1,6 @@
 # 🕥 Simple-Job-Roll-Timer 🕥
 
-  A job timer made using HTML, CSS, and JavaScript is a simple yet powerful tool designed to track the time spent on various tasks or jobs. It likely includes a user-friendly interface with a start, stop, and reset button, enabling users to manage their time efficiently.
+  A job timer made using HTML, CSS, and JavaScript is a simple yet powerful tool designed to track the time spent on various tasks or jobs.
 
  # Value of the Job Roll Timer:
 - Productivity Enhancement: Helps users focus by tracking the time they spend on each task, encouraging more efficient work habits.
